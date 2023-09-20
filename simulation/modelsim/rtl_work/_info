@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\proyectosQuartus\alu_4bits\simulation\modelsim
+Ealu_4bits
+Z1 w1695069939
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dD:\proyectosQuartus\alu_4bits\simulation\modelsim
+Z7 8D:/proyectosQuartus/alu_4bits/alu_4bits.vhd
+Z8 FD:/proyectosQuartus/alu_4bits/alu_4bits.vhd
+l0
+L5
+V1MOLO3GkW8h2G[Bedi6lh3
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1695133984.035000
+Z11 !s90 -reportprogress|300|-93|-work|work|D:/proyectosQuartus/alu_4bits/alu_4bits.vhd|
+Z12 !s107 D:/proyectosQuartus/alu_4bits/alu_4bits.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 XzlX97BMC23JmOm;zZzRO3
+!i10b 1
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 9 alu_4bits 0 22 1MOLO3GkW8h2G[Bedi6lh3
+l19
+L17
+V6ejZN<0iVkQJOG_Xff7^A1
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 5ig4>AXI8z2MJ7R4;i:aO1
+!i10b 1
+Etb_alu_4bits
+Z15 w1695133898
+R2
+R3
+R4
+R5
+R6
+Z16 8D:/proyectosQuartus/alu_4bits/tb_alu_4bits.vhd
+Z17 FD:/proyectosQuartus/alu_4bits/tb_alu_4bits.vhd
+l0
+L5
+VEgkml7iRK>Q90_3^;UY@11
+!s100 emSdbLOmD@Z]mf2cFJgSU0
+R9
+31
+!i10b 1
+Z18 !s108 1695133984.464000
+Z19 !s90 -reportprogress|300|-93|-work|work|D:/proyectosQuartus/alu_4bits/tb_alu_4bits.vhd|
+Z20 !s107 D:/proyectosQuartus/alu_4bits/tb_alu_4bits.vhd|
+R13
+R14
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 12 tb_alu_4bits 0 22 Egkml7iRK>Q90_3^;UY@11
+l21
+L8
+VSFmK[>CnQ<3C[=6Vn=T382
+!s100 BJAIM5Y9n1Y]dn:POGcZS2
+R9
+31
+!i10b 1
+R18
+R19
+R20
+R13
+R14

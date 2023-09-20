@@ -1,0 +1,28 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+
+entity alu_exe is
+
+	port
+	( a,b : in std_logic_vector(3 downto 0);
+	  sel : in std_logic_vector(2 downto 0);
+	  y   : out std_logic_vector(3 downto 0)
+
+	);
+
+end entity;
+
+architecture rtl of alu_exe is
+signal aritm : std_logic_vector(3 downto 0) := (others => '0');
+begin
+
+with sel select
+	aritm <= a when "000",
+				a+1 when "001",
+				b-1 when "010",
+				b when "011",
+				a and b when others;
+
+y <= aritm;
+end rtl;
